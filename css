@@ -1,0 +1,10 @@
+notebook/
+├── controller/
+│   └── note_controller.py
+├── model/
+│   └── note.py
+├── view/
+│   └── console_view.py
+├── main.py
+├── requirements.txt
+└── README.md
